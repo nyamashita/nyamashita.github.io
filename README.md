@@ -1,5 +1,3 @@
-# nyamashita.github.io
-
 ## 雑文
 - [線形代数入門](files/linear_algebra.pdf)
 - [t検定・分散分析・回帰分析](files/reg_ttest_anova.pdf)
